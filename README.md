@@ -4,6 +4,16 @@ a skin of the game Casualties Unknown
 
 一个未知伤亡的皮肤
 
+### Picture 展示
+
+![img](image/image_0.png)
+
+![img](image/image_1.png)
+
+![img](image/image_2.png)
+
+### [LICENSE](LICENSE)
+
 this skin was open source under the **CC BY-NC-ND 4.0** license
 
 这个皮肤据 **知识共享 署名-禁止商用-禁止演绎 4.0** 协议开源
