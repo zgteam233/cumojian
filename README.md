@@ -7,10 +7,11 @@ a skin of the game Casualties Unknown
 ### Picture 展示
 
 ![img](image/image_0.png)
-
 ![img](image/image_1.png)
-
 ![img](image/image_2.png)
+![img](image/image_3.png)
+![img](image/image_4.png)
+![img](image/image_5.png)
 
 ### [LICENSE](LICENSE)
 
