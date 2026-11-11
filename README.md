@@ -15,6 +15,7 @@ this skin was open source under the **CC BY-NC-ND 4.0** license
 
 # File Structure Example 文件结构示例
 
+```log
 Casualties Unknown/
 ├── BepInEx/
 │ └── plugins/
@@ -23,6 +24,7 @@ Casualties Unknown/
 │   │  └── mojian/ <- skin file 皮肤文件
 │   └──...
 └──...
+```
 
 # NOTICE 注意事项
 
